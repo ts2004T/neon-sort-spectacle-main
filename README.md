@@ -1,73 +1,78 @@
-# Welcome to your Lovable project
+# Neon Sort Spectacle
 
-## Project info
+Neon Sort Spectacle is a visually engaging web-based sorting algorithm visualizer. It helps users understand how sorting algorithms work by animating the sorting process in a fun and colorful way.
 
-**URL**: https://lovable.dev/projects/40813e5c-1ddf-41be-ad6a-0de65030ccfa
+---
 
-## How can I edit this code?
+## 🚀 Features
 
-There are several ways of editing your application.
+- Visualizes popular sorting algorithms like Bubble Sort, Selection Sort, etc.
+- Neon-themed animations for enhanced experience
+- Adjustable speed and array size
+- Clean and responsive UI
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/40813e5c-1ddf-41be-ad6a-0de65030ccfa) and start prompting.
+## 🛠️ Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+- HTML, CSS, JavaScript
+- [Optional] Tailwind CSS or other libraries
+- React Framework
+- Node js 
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🧑‍💻 Getting Started
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 1. Clone the repository
 
-Follow these steps:
+```bash
+git clone https://github.com/your-username/neon-sort-spectacle.git
+```
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 2. Navigate to the project folder
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+```bash
+cd neon-sort-spectacle
+```
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 3. Open the project
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+If it's a simple HTML/CSS/JS project:
+
+- Open `index.html` in your browser  
+- Or right-click and choose **"Open with Live Server"** in VS Code
+
+If you're using a framework or build tools like npm:
+
+```bash
+npm install
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📁 Folder Structure
 
-**Use GitHub Codespaces**
+```
+neon-sort-spectacle/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── ...other assets
+```
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 🙋‍♀️ Author
 
-This project is built with:
+**Tanishka Suryawanshi**  
+GitHub: [@ts2004T](https://github.com/ts2004T)
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## ⭐ Show Your Support
 
-Simply open [Lovable](https://lovable.dev/projects/40813e5c-1ddf-41be-ad6a-0de65030ccfa) and click on Share -> Publish.
+If you like this project, consider giving it a ⭐ on [GitHub](https://github.com/your-username/neon-sort-spectacle)!
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
